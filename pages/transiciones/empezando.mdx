@@ -1,0 +1,34 @@
+# Transición CSS Simple
+
+## Visión General
+
+Este proyecto demuestra un efecto de transición CSS simple pero efectivo en un botón. Al pasar el cursor sobre el botón, su color de fondo cambia suavemente de azul a verde.
+
+## Vista Previa
+
+Pasa el cursor sobre el botón para ver el efecto de la transición.
+
+import Counters from '../../components/counters'
+
+<Counters />
+
+## Cómo Funciona
+
+El botón está estilizado usando CSS con propiedades específicas para habilitar el efecto de transición.
+- La `transition-property` se establece en `background-color`. [Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property)
+- La `transition-duration` se especifica para controlar el tiempo del efecto. [Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration)
+
+## Ejemplo de Código
+
+```css
+.button {
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+  background-color: blue;
+  transition-property: background-color;
+  transition-duration: 1s; /* Acepta también milisegundos */
+}
+.button:hover {
+  background-color: green;
+}

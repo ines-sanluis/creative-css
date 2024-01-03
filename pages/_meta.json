@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Introducción",
+  "transiciones": "Transiciones",
   "about": {
-    "title": "About",
+    "title": "Sobre mí",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.linkedin.com/in/ines-sanluis",
     "newWindow": true
   }
 }

@@ -1,23 +1,40 @@
-# Nextra Docs Template 
+# CSS Creativo - Aprende CSS con Ejemplos Prácticos
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+## Introducción
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+Bienvenidos a "CSS Creativo", un proyecto diseñado para aquellos que desean aprender y mejorar sus habilidades en CSS a través de ejemplos prácticos y proyectos creativos. Aquí encontrarás una serie de ejercicios, tutoriales y consejos que te ayudarán a dominar CSS y a llevar tus proyectos de diseño web al siguiente nivel.
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+## Demostración en Vivo
 
-## Quick Start
+Echa un vistazo al proyecto en acción:
 
-Click the button to clone this repository and deploy it on Vercel:
+[**Demostración en Vivo →**](https://creative-css.vercel.app)
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+## Comenzando
 
-## Local Development
+Este proyecto está estructurado en diferentes módulos que cubren varios aspectos de CSS, desde lo básico hasta técnicas avanzadas. Cada módulo incluye ejemplos prácticos y ejercicios para reforzar tu aprendizaje.
 
-First, run `pnpm i` to install the dependencies.
+### Requisitos Previos
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+- Conocimientos básicos de HTML.
+- Entusiasmo por aprender CSS.
 
-## License
+## Instalación y Uso
 
-This project is licensed under the MIT License.
+1. Clona el repositorio a tu máquina local.
+2. Abre los archivos de ejemplo en tu editor de código y en un navegador para ver los resultados.
+3. Sigue los tutoriales y realiza los ejercicios propuestos.
+
+## Contribuciones
+
+¿Tienes ideas para mejorar el proyecto o deseas contribuir con tus propios ejemplos y tutoriales? ¡Tus contribuciones son bienvenidas! Abre una nueva 'issue' o envía un 'pull request' para comenzar.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Contacto y Soporte
+
+Si tienes preguntas, comentarios o necesitas ayuda con alguno de los ejemplos, no dudes en contactarme!
+
+© 2024 CSS Creativo. Todos los derechos reservados.
