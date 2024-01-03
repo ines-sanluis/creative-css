@@ -8,7 +8,7 @@ Bienvenidos a "CSS Creativo", un proyecto diseñado para aquellos que desean apr
 
 Echa un vistazo al proyecto en acción:
 
-[**Demostración en Vivo →**](https://creative-css.vercel.app)
+[**Demostración en Vivo →**](https://css-creativo.vercel.app/)
 
 ## Comenzando
 
